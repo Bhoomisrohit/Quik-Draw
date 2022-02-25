@@ -1,0 +1,49 @@
+body
+{
+    background-color: bisque;
+}
+
+#score
+{
+    font-size: 18px;
+    margin-left: 1000px;
+    color: rgb(27, 190, 95);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#time
+{
+    font-size: 18px;
+    float: right;
+    margin-right: 1000px;
+    color: rgb(12, 141, 141);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sketch_name
+{
+    color: rgb(6, 95, 95);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+   color: rgb(230, 62, 118);
+   background-color: lightcyan;
+   font-family: 'Lobster', cursive;
+}
+
+#label
+{
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    color: lightcoral;
+}
+
+#confidence
+{
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(24, 151, 151);
+}
